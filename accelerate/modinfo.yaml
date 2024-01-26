@@ -1,0 +1,10 @@
+﻿entrypoint: 
+    dll: accelerateMain.dll
+    className: Accelerate.Accelerate
+attributes:
+    id: com.codemob.accelerate
+    name: Accelerate
+    description: bopl go brr
+    version: "1.0"
+    authors: 
+        - Codemob

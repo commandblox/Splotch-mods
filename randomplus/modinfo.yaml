@@ -1,0 +1,10 @@
+﻿entrypoint: 
+    dll: main.dll
+    className: RandomPlus.RandomPlus
+attributes:
+    id: com.codemob.randomplus
+    name: Random+
+    description: random is great so I made it better
+    version: "1.0"
+    authors: 
+        - Codemob

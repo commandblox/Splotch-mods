@@ -1,0 +1,10 @@
+﻿entrypoint: 
+    dll: nogravity.dll
+    className: NoGravity.NoGravity
+attributes:
+    id: com.codemob.nogravity
+    name: No gravity
+    description: Deletes gravity (yay?)
+    version: "1.1"
+    authors: 
+        - Codemob

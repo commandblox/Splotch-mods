@@ -1,0 +1,10 @@
+﻿entrypoint: 
+    dll: ohno.dll
+    className: ohno.ohno
+attributes:
+    id: com.codemob.ohno
+    name: ohno
+    description: bopl go brr
+    version: "1.0"
+    authors: 
+        - Codemob
